@@ -1,5 +1,5 @@
 <div class="socials">
-    <a href="#" target="_blank"
+    <a href="https://m.me/vasilije.tomovic.12" target="_blank"
     ><img
             src="../../../../../assets/icons/icons8-facebook.gif"
             alt="Facebook"

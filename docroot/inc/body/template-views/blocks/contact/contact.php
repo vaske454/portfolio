@@ -2,7 +2,7 @@
     <h2>Get In Touch With Me</h2>
     <div class="contact-form-container">
         <div class="contact-form">
-            <form action="https://formspree.io/f/xyylngw" method="POST">
+            <form action="javascript:;" method="POST" enctype="multipart/form-data">
                 <div class="form-control">
                     <label for="name">Name</label>
                     <input
